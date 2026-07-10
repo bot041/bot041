@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bhuvan
 - 👀 I’m interested in AI/ML, Agentic AI & Computer Vision
-- 🌱 I’m currently learning BE in Computer Science and Engineering
+- 🌱 I’m expecting to graduate with a B.E. in Computer Science and Engineering
 - 💞️ I’m looking to collaborate on AI/ML projects, Agentic AI systems & Computer Vision applications
 - 📫 How to reach me bkambad041@gmail.com
 - 😄 Pronouns: He/Him
